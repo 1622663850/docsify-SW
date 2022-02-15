@@ -2489,4 +2489,8 @@ Otherwise check for a confirmation dialog on your device.
 * [像高手一样使用ADB命令行（2）](http://cabins.github.io/2016/03/25/UseAdbLikeAPro-2/)
 * [adb自动化库](https://github.com/lizonezhi/uitest)
 * [Python脚本之ADB命令（一）](https://www.jianshu.com/p/78ed2b45784d)
+* [百度开源OCR库PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+* [开源OCR库EasyOCR](https://github.com/JaidedAI/EasyOCR)
+* [TrWebOCR-开源的离线OCR](https://github.com/alisen39/TrWebOCR)
+* [可以通过 xpath，ocr 获取 ui 元素的adbui库](https://github.com/hao1032/adbui)
 

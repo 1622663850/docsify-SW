@@ -12,3 +12,8 @@
 
   - [Docsify本地部署教程](/ProjectDocs/docsify部署教程.md)
 
+* Auto.js使用教程
+
+  - [Autojs代码仓库](/ProjectDocs/autojs代码仓库.md)
+  - [Autojs权限设置](/ProjectDocs/autojs权限设置.md)
+
